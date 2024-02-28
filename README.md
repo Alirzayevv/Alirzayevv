@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alirzayevv
-- 👀 I’m interested in Cyber Security and Data Analytics
-- 🌱 I’m currently learning Computer Sience
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Blue Team and Red Team
 - 📫 How to reach me instagram: @l_alirzayev_l
 
 <!---
